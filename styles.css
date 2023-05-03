@@ -1,0 +1,172 @@
+.blue-nav li a {
+    color: rgb(112, 112, 112);
+}
+
+.blue-nav li .underline {
+    border-bottom: 1px solid black;
+}
+
+.greeting {
+    width: 21%;
+    padding: 10px 23px;
+    background-color: #49c8b5;
+    border-radius: 35px 30px 30px 3px;
+
+}
+
+.name {
+    padding-top: 20px;
+}
+
+.first-section {
+    margin-top: 90px;
+}
+
+.profile-pic {
+    width: 50%;
+    height: 90%;
+    border-radius: 50%;
+    box-shadow: 0 0 0 20px #d8d8d8, 0 0 0 40px rgb(239 239 239);
+}
+
+
+
+.skill {
+    border: 1px solid #49c8b5;
+    padding: 5px 13px;
+    border-radius: 6px;
+
+}
+
+.skills ul {
+    list-style-type: none;
+    padding: 10px 10px 0 0;
+
+}
+
+.download {
+    background-color: #3ad6be;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    padding: 10px;
+    width: 42%;
+}
+
+.what-i-do {
+    padding-top: 130px;
+    padding-bottom: 100px;
+}
+
+
+.my-card {
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.skill-icon {
+    padding: 29px 0 10px 17px;
+    font-size: 30px;
+}
+
+
+.skill-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.progress-color {
+    background-color: #22d5b8;
+}
+
+.tech,
+.pro {
+    padding: 40px 0;
+}
+
+.big-flex-wrapper-one {
+    display: flex;
+    justify-content: space-around;
+}
+
+.small-flex-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.circle {
+    border: 3px solid #2ad4b7;
+    border-radius: 50%;
+    padding: 30px;
+    width: 104px;
+    height: 95px;
+}
+
+.green-text,
+.date {
+    color: #22d5b8;
+}
+
+.date {
+    margin: 15px 0;
+}
+
+
+
+.points ul li {
+    padding: 0;
+}
+
+.underline-blue {
+    border-bottom: 1px solid blueviolet;
+
+}
+
+.hire-btn{
+    font-weight: 600;
+    background-color: #22d5b8;
+    border: none;
+    border-radius: 18px;
+    color: white;
+    width: 40%;
+    
+}
+
+.port-card {
+    border: none;
+}
+
+
+.pri-icon {
+    font-size: 30px;
+    margin: 40px 0;
+}
+
+.wrapper {
+    padding: 20px;
+}
+
+.girl-img {
+    border: 3px solid #25d2b8;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.icon-circle {
+    border: 1px solid greenyellow;
+    border-radius: 50%;
+    padding: 50px;
+    width: 50%;
+    margin: 20px 0;
+}
+
+.send-btn {
+    width: 100%;
+    border-radius: 25px;
+}
+
+.bold-text{
+    font-weight: bolder;
+}
